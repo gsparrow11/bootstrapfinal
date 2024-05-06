@@ -1,0 +1,6 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body {background-color: #EF4648}
+header,footer {background-color: #582841}
+header,footer,h1, body {color: whitesmoke;}
+img {width: 600px; height: 500px; margin: 85px}
+p {font-size: medium;font-family: serif; color:whitesmoke;}
